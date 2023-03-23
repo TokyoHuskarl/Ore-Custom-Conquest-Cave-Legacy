@@ -1,0 +1,19 @@
+昔弄っていたM&B:Warbandのmodのソースコードです。
+本体に付属していたAppend内のものと（おそらく）同じです。
+
+当時遊んでくれた皆さんや，CaveModの開発をしてくれた皆さんに感謝を込めて
+
+	<Special Thanks>
+		K様(Cave作者様)
+
+		CaveMM作者様
+
+		Koduka様(Cave Difor/MMパッチ作者様)
+
+		Mod Cave part9 ID:dIt.58PA様 - 女司令官鎧
+
+		Firearms05作者様 - メイド服/Firearms
+
+		したらば＆2ch/5ch住民の皆さん
+
+		TaleWorlds
