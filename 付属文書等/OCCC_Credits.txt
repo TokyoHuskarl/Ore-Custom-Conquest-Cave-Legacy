@@ -1,0 +1,196 @@
+Credits:
+
+	<Inspired/Referenced/Used Mods>
+
+		K/Koduka - Cave Difor/Cave Difor mm
+		https://www21.atwiki.jp/warband/pages/66.html
+
+		LordY - Call to Arms AW+MP
+		http://www21.atwiki.jp/warband/pages/86.html
+
+		kamina - 関東動乱
+		https://www16.atwiki.jp/kantoudouran/
+
+		Leonion - Perisno
+		https://forums.taleworlds.com/index.php?board=341.0
+
+		saxondragon - Prophecy of Pendor
+		https://forums.taleworlds.com/index.php?board=119.0
+
+		Dynamite Jewduh - Floris Evolved
+		https://forums.taleworlds.com/index.php?board=197.0
+
+		Xenoargh - Blood and Steel
+		https://forums.taleworlds.com/index.php?board=185.0
+
+		Stronghold: Crusader - L'aigle
+		https://forums.taleworlds.com/index.php?board=383.0
+
+		Idibil - Brytenwalda
+		https://forums.taleworlds.com/index.php?board=189.0
+
+		Triglav - The Last Days of Third Age
+		https://forums.taleworlds.com/index.php/topic,199243.0.html
+
+		HokieBT/Swyter - Star Wars Conquest
+		https://forums.taleworlds.com/index.php?topic=40510.0
+
+		gutekfiutek - Polished Landscapes
+		https://forums.taleworlds.com/index.php?topic=122423.0
+
+		Openshaw - Expanded Horizons
+		https://forums.taleworlds.com/index.php?topic=145948.0
+
+		Papa Lazarou - Combat Animation Enhancement
+		https://forums.taleworlds.com/index.php?topic=134185.0
+
+		Lav - SIEGE CAMP ICON MINI-MOD
+		https://forums.taleworlds.com/index.php?topic=192892.0
+
+		Flanged - Decapitate and Dismember mod
+		https://forums.taleworlds.com/index.php?topic=264786.0
+
+		Highlander/HyperCharge - Age of Machinery
+		https://forums.taleworlds.com/index.php?topic=344460
+
+		BIGGER Kentucky James XXL - [OSP][Code] Form Musket Square
+		https://forums.taleworlds.com/index.php/topic,331570.0.html
+
+		Efe Karacar - [OSP][Code] Hardcore fighting AI - Blocking, better positioning, feinting...etc
+		https://forums.taleworlds.com/index.php/topic,374608.0.html
+		
+		Wave 53 Studios - Full invasion-2
+		https://www.moddb.com/mods/full-invasion-2
+		
+		Adorno - File Listing: Arena Overhaul mod [for Warband]
+		https://www.mbrepository.com/file.php?id=1760
+
+	<Additional Model Packs>
+
+		Wilk22 - Single Hussar Wing
+		https://www.nexusmods.com/mbwarband/mods/5875/?tab=2&navtag=https%3A%2F%2Fwww.nexusmods.com%2Fmbwarband%2Fajax%2Fmodfiles%2F%3Fid%3D5875&pUp=1
+
+		SacredStoneHead - SSH samurai armour set
+		https://www.nexusmods.com/mbwarband/mods/3666/?tab=2&navtag=https%3A%2F%2Fwww.nexusmods.com%2Fmbwarband%2Fajax%2Fmodfiles%2F%3Fid%3D3666&pUp=1
+
+		mr.master - Finland at WW2
+		https://forums.taleworlds.com/index.php?topic=332701.0
+
+		SendMeSmile - Smiley Stuff OSP
+		https://forums.taleworlds.com/index.php?topic=138478.15
+
+		Jaakko - Roman Era Buildings
+		https://forums.taleworlds.com/index.php?topic=214781.0
+
+		Spak - Adonnays_Elven_Weaponry
+		https://www.nexusmods.com/mbwarband/mods/2568/
+
+		Mark7 - OSP CWE 
+		https://forums.taleworlds.com/index.php?topic=337081.0
+
+		Kovas - Teutonic and Lithuanian items
+		https://forums.taleworlds.com/index.php?topic=187938.0
+
+		amade - Bronze Warrior Model Pack
+		https://forums.taleworlds.com/index.php?topic=77165.0
+
+		Yoman Jenkins - Yoman's helmets/coifs for byzantine, cataphracts, and others 
+		https://forums.taleworlds.com/index.php?topic=134099.0
+
+		dariel - OSP Indo-Persian Armor
+		https://forums.taleworlds.com/index.php?topic=340507.0
+		
+		nemeruis - Calradia:Modern Warfare OSP
+		https://forums.taleworlds.com/index.php?topic=220038.0
+		
+		Augustus Pertinax - (OSP)Spangenhelm
+		https://www.mbrepository.com/file.php?id=3348
+
+		Yifeng_konjac - Aztec equipment
+
+		Xenoargh - Female Armor
+
+		Youhou - Assassin Armor
+
+		Dejawolf - Viking Armor
+
+		pino69 - Pino_Armors_Pack_OSP_v1.2
+
+		Talak - Unique Armoury
+
+		Mackie - Mackie's Weapons Pack
+
+		Sayd Uthman - 7th century middle eastern helmets wanderer
+
+		Mod Cave part9 ID:dIt.58PA様 - 女司令官鎧
+
+		Firearms05作者様 - メイド服/Firearms
+
+	<System Pictures for Additional Factions>
+
+		Vecteezy
+		https://www.vecteezy.com/
+
+		DUMIELAUXEPICES.NET
+		https://dumielauxepices.net/
+
+		Pngtree
+		https://pngtree.com/
+
+	<Musics>
+
+		Two Steps From Hell
+		https://www.youtube.com/channel/UC3swwxiALG5c0Tvom83tPGg
+		
+		Derek & Brandon Fiechter
+		https://www.youtube.com/channel/UCjMZjGhrFq_4llVS_x2XJ_w
+
+		Nathyr
+		https://www.youtube.com/channel/UCBqOa7yOmne4ezgH2e1itQg
+
+		Dervhengrym
+		https://www.youtube.com/channel/UCBxfg6sihQLapnEFt9B3FCg
+
+		Skar Productions
+		https://www.youtube.com/channel/UCpx_V-pf-2kE_AQiYOxpoEw
+		
+		Cnoc
+		http://cnoc.web.fc2.com/
+		
+		ilodolly
+		https://dova-s.jp/_contents/author/profile031.html
+
+		その他拾い物
+
+	<Sounds>
+
+		Free Sounds
+		https://freesound.org/home/
+		
+		ニコニ・コモンズ…蛇ノ目　朔夜様
+		http://commons.nicovideo.jp/material/nc123139
+
+	<Misc>
+
+		Ruthven - Sea Battles Mk. II & Misc Scenes
+		https://forums.taleworlds.com/index.php?topic=136095.0
+
+		Site Bot - Graphical Boost Pack
+		https://www.nexusmods.com/mbwarband/mods/2239/
+
+		Native Scene Replacement Pack
+		https://www.nexusmods.com/mbwarband/mods/6067
+
+		Lord Samuel - NATIVE Warband Siege Scenes Pack
+
+	<Special Thanks>
+
+		K様(Cave作者様)
+
+		CaveMM作者様
+
+		Koduka様(Cave Difor/MMパッチ作者様)
+
+		したらば＆2ch/5ch住民の皆さん
+
+		TaleWorlds

@@ -1,0 +1,23 @@
+-For foreign players-
+
+To patch v0.21, you only have to merge Ore Custom Conquest Cave v0.2 directory in v0.21 zip file with OCCC's directory in your MountBlade Warband/module/.
+v0.21 is (maybe) save data compatible with v0.2fix3.
+
+About OCCC and Cave series:
+	Cave-mod was originally made by Mr.K, and later, Cave Difor was made as its successor and has been maintained by Mr.Koduka.
+	OCCC is one of cave series mods, derived from Cave Difor initially.
+	In OCCC, Many contents are added and thus it's far more complicated than the original one.
+	So if you feel OCCC is bit messy, I suggest you to try Cave Difor.
+	The original cave-mod is sadly outdated now, still as I mentioned, Cave Difor has been maintained well. It's classic and neat.
+
+If you feel confused upon playing the series, these articles might help you (they are written in Japanese, so you need to use google translator though):
+
+	About Cave Mod:
+	http://mbcave.web.fc2.com/
+	
+	About OCCC:
+	https://w.atwiki.jp/warband/pages/427.html
+
+Thank you for playing Cave mod series, and sorry for my awkward English. Enjoy!
+
+TokioHuskarl
